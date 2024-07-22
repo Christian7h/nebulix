@@ -23,7 +23,7 @@ const m2dxOptions = {
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://nebulix.unfolding.io",
+  site: "https://astro-ecommerce-fenice.netlify.app",
   integrations: [
     icon(),
     mdx({}),
